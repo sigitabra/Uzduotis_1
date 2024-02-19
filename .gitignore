@@ -35,7 +35,7 @@
 # .idea/compiler.xml
 # .idea/jarRepositories.xml
 # .idea/modules.xml
-# .idea/*.iml
+#.idea/*.iml
 # .idea/modules
 # *.iml
 # *.ipr
@@ -48,7 +48,7 @@ cmake-build-*/
 
 # File-based project format
 *.iws
-
+*.iml
 # IntelliJ
 out/
 
